@@ -304,6 +304,7 @@ Fast-forward
 ### Решение
 #### 1. Ветвление, merge и rebase
 Создание директории branching, файлов merge.sh и rebase.sh, добавление коммита "prerare for merge and rebase"
+
 ![Screenshot_1.png](img/Screenshot_1.png)
 
 Пуш на GitHub (ветка main)

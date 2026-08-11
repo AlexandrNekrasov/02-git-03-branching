@@ -308,27 +308,35 @@ Fast-forward
 ![Screenshot_1.png](img/Screenshot_1.png)
 
 Пуш на GitHub (ветка main)
+
 ![Screenshot_2.png](img/Screenshot_2.png)
 
 После создания ветки git-merge, замены данных в файле, просмотр коммитов.
+
 ![Screenshot_3.png](img/Screenshot_3.png)
 
 После создания ветки git-rebase, замены данных в файле, просмотр графа коммитов, веток.
+
 ![Screenshot_4.png](img/Screenshot_4.png)
 
 Объединение веток, просмотр графа коммитов, веток.
+
 ![Screenshot_5.png](img/Screenshot_5.png)
 
 Переключение на ветку git-rebase, попытка объединения, конфликты, решение.
+
 ![Screenshot_6.png](img/Screenshot_6.png)
 
 Объединение веток после решения конфликтов, просмотр графа коммитов, веток.
+
 ![Screenshot_7.png](img/Screenshot_7.png)
 
-Обновление репозитория на GitHub
+Обновление репозитория на GitHub.
+
 ![Screenshot_8.png](img/Screenshot_8.png)
 
 Объединение ветки git-rebase, обновление репозитория на GitHub.
+
 ![Screenshot_9.png](img/Screenshot_9.png)
 
 
